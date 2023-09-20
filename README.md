@@ -1,0 +1,1 @@
+In this repo i have tried out API, with Flask, Hoppscotch, Swagger and GraphQL
